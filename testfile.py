@@ -1,3 +1,4 @@
+# Add to list instead
+numlist=[]
 for x in range(15):
-    print('This is a number',x)
-
+    numlist.append(x)
