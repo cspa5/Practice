@@ -1,4 +1,4 @@
-# Add to list instead
-numlist=[]
+# No! Back to numbers
 for x in range(15):
-    numlist.append(x)
+    print(x)
+
